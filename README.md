@@ -1,4 +1,4 @@
-# MERN-Starter
+﻿# MERN-Starter
 
 ## Description
 
@@ -71,4 +71,6 @@ This repository provides a starter template for building MERN stack applications
      ```
    - This will create optimized static files in the `dist` directory of the `frontend` folder. You can then serve these files using any static file server or integrate them with your backend.
 \n## Setup\n- Install deps with 
+
+\n> Note: Alternatively, you can use 
 pm install in both backend and frontend.
